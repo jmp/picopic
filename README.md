@@ -1,7 +1,13 @@
 # Picopic
 
-[Picopic](https://picopic.io) is a small web service for optimizing images.
-Currently, it can be used to optimize PNG images via a web browser.
+Picopic is a small web service for optimizing images. It consists of a React frontend
+running at https://picopic.io/, and a backend exposing an API at https://api.picopic.io/.
+Currently, the service can be used to optimize PNG images via a web browser.
+
+This is a hobby project. Its purpose was to teach me more about the different AWS services,
+serverless/microservice architecture, and infrastructure as code using [CDK](https://aws.amazon.com/cdk/).
+Everything in the project, from frontend to backend including all the AWS services, is defined
+in code.
 
 ## Repositories
 
