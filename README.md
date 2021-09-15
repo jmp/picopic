@@ -13,10 +13,14 @@ in code.
 
 ### Frontend
 
-* [picopic-frontend-infrastructure](https://github.com/jmp/picopic-frontend-infrastructure): CDK project for managing the AWS resources for hosting the frontend
-* [picopic-frontend](https://github.com/jmp/picopic-frontend): the React frontend written in TypeScript
+| Status | Repository | Description |
+| ------ | ---------- | ----------- |
+| [![build](https://github.com/jmp/picopic-frontend-infrastructure/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-frontend-infrastructure/actions/workflows/build.yml) | [picopic-frontend-infrastructure](https://github.com/jmp/picopic-frontend-infrastructure) | Infrastructure for the frontend |
+| [![build](https://github.com/jmp/picopic-frontend/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-frontend/actions/workflows/build.yml) | [picopic-frontend](https://github.com/jmp/picopic-frontend) | The React frontend written in TypeScript |
 
 ### Backend
 
-* [picopic-backend-infrastructure](https://github.com/jmp/picopic-backend-infrastructure): CDK project for managing common AWS resources for the backend services
-* [picopic-backend-optimization-service](https://github.com/jmp/picopic-backend-optimization-service): A backend service for optimizing image files
+| Status | Repository | Description |
+| ------ | ---------- | ----------- |
+| [![build](https://github.com/jmp/picopic-backend-infrastructure/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-backend-infrastructure/actions/workflows/build.yml) | [picopic-backend-infrastructure](https://github.com/jmp/picopic-backend-infrastructure) | Common infrastructure for backend services |
+| [![build](https://github.com/jmp/picopic-backend-optimization-service/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-backend-optimization-service/actions/workflows/build.yml) | [picopic-backend-optimization-service](https://github.com/jmp/picopic-backend-optimization-service) | A backend service for optimizing image files |
