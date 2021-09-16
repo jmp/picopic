@@ -24,3 +24,9 @@ in code.
 | ------ | ---------- | ----------- |
 | [![build](https://github.com/jmp/picopic-backend-infrastructure/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-backend-infrastructure/actions/workflows/build.yml) | [picopic-backend-infrastructure](https://github.com/jmp/picopic-backend-infrastructure) | Common infrastructure for backend services |
 | [![build](https://github.com/jmp/picopic-backend-optimization-service/actions/workflows/build.yml/badge.svg)](https://github.com/jmp/picopic-backend-optimization-service/actions/workflows/build.yml) | [picopic-backend-optimization-service](https://github.com/jmp/picopic-backend-optimization-service) | A backend service for optimizing image files |
+
+### End-to-end tests
+
+| Status | Repository | Description |
+| ------ | ---------- | ----------- |
+| [![tests](https://github.com/jmp/picopic-e2e-tests/actions/workflows/tests.yaml/badge.svg)](https://github.com/jmp/picopic-e2e-tests/actions/workflows/tests.yaml) | [picopic-e2e-tests](https://github.com/jmp/picopic-e2e-tests) | End-to-end tests |
