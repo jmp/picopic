@@ -29,4 +29,4 @@ in code.
 
 | Status | Repository | Description |
 | ------ | ---------- | ----------- |
-| [![tests](https://github.com/jmp/picopic-e2e-tests/actions/workflows/tests.yaml/badge.svg?event=workflow_dispatch)](https://github.com/jmp/picopic-e2e-tests/actions/workflows/tests.yaml) | [picopic-e2e-tests](https://github.com/jmp/picopic-e2e-tests) | End-to-end tests |
+| [![e2e-tests](https://github.com/jmp/picopic-e2e-tests/actions/workflows/e2e-tests.yml/badge.svg?event=workflow_dispatch)](https://github.com/jmp/picopic-e2e-tests/actions/workflows/e2e-tests.yml) | [picopic-e2e-tests](https://github.com/jmp/picopic-e2e-tests) | End-to-end tests |
